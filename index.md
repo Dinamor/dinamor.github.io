@@ -101,3 +101,11 @@ language-code="es"
         }
     }
 </script>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="NewAgent"
+  agent-id="bc084868-8085-4b3f-be98-450060aed299"
+  language-code="en"
+></df-messenger>
